@@ -12,4 +12,7 @@
 
 2. Activate it:
     .\venv\Scripts\Activate.ps1
+
 3. Install Req:
+    pip install matplotlib jupyterlab ipykernel
+    pip install -r requirements.txt
