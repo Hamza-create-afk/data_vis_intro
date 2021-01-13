@@ -16,3 +16,9 @@
 3. Install Req:
     pip install matplotlib jupyterlab ipykernel
     pip install -r requirements.txt
+
+4. Before Running jupyterlab:
+    *point the ipykernel to the venv*
+
+    python -m ipykernel install --user --name=data_vis
+
